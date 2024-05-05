@@ -1,0 +1,62 @@
+body {
+
+    text-align: justify;
+    background-color: rgb(4, 4, 46);
+    background-repeat: no-repeat;
+}
+
+img {
+
+    size: 10px;
+}
+.container {
+
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: rgb(1, 142, 142);
+    font-style: italic;
+
+}
+
+hr {
+
+    background-color: rgb(1, 142, 142);
+   height: 10px;
+   border: solid rgb(1, 142, 142);
+}
+
+.cine {
+
+    color:rgb(1, 142, 142);
+    font-style: italic;
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: right;
+}
+
+.video-container {
+
+position: absolute;
+size: 20px;
+border: solid rgb(1, 142, 142);
+margin: 15px;
+}
+
+.cine {
+
+    text-align: center;
+    background-color:rgb(1, 142, 142);
+    font-size: 30px;
+    font-style: italic;
+    border-radius: 1000px;
+}
+
+.cineva {
+
+    font-style: italic;
+    text-align: center;
+    background-color:rgb(1, 142, 142);
+    font-size: 30px;
+    border-radius: 5000px;
+}
